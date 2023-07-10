@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "/home/n1p3/Desktop/zadanie-rekrutacyjne-01/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/n1p3/Desktop/zadanie-rekrutacyjne-01/./frontend/generated/jar-resources",
+  "staticOutput": "/home/n1p3/Desktop/zadanie-rekrutacyjne-01/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/home/n1p3/Desktop/zadanie-rekrutacyjne-01/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/home/n1p3/Desktop/zadanie-rekrutacyjne-01/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/home/n1p3/Desktop/zadanie-rekrutacyjne-01/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/home/n1p3/Desktop/zadanie-rekrutacyjne-01/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/home/n1p3/Desktop/zadanie-rekrutacyjne-01/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "rekrutacjanethos",
+  "clientServiceWorkerSource": "/home/n1p3/Desktop/zadanie-rekrutacyjne-01/target/sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}
